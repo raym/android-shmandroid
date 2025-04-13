@@ -1,4 +1,4 @@
-package com.example.keystorevault
+package com.lightship.safestring
 
 import android.content.Context
 import android.content.SharedPreferences
